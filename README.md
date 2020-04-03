@@ -1,6 +1,6 @@
 # Pyramid-Solitaire
 
-Hello this is my Pyramid Solitaire Game! 
+This is my Pyramid Solitaire Game
 
 The goal is to get rid of all the cards in the Pyramid by combining card values that add up to 13.
 
